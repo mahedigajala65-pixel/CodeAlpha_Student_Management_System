@@ -20,4 +20,4 @@ This is a simple Student Management System built using C programming language. I
 3. Use menu options (Add / Display / Search)
 
 ## 👨‍💻 Author
-Your Name
+Gajala Mahedi
